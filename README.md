@@ -24,7 +24,6 @@ You can view the website by opening the `index.html` file in your browser or vis
 ## Contact
 
 - **Email**: huangr76@gmail.com
-- **Phone**: (848) 666-0903
 - **LinkedIn**: [Rui Huang's LinkedIn Profile](https://www.linkedin.com/in/rui-huang-242a4419/)
 
 ## License
